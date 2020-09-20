@@ -47,11 +47,12 @@ Graficando barrar
 
 ## Análisis de datos
 
-Aquí describamos conceptualmente el análisis de forma breve.
+# Análisis I
+Aquí se plantea estudiar las siguientes cuestiones ¿Los jóvenes interesados en ciencia tienen mejores posibilidades de conseguir empleo?, respecto a los gastos que hace el gobierno en apoyos a la invesetigación cientifíca, dígame si ¿cree que se está asignando o invirtiendo muy poco dinero, el monto correcto o demasiado dinero?. En el primer caso entre las respuestas posibles se encuentran las opciones 1:Muy de acuerdo,2 :De acuerdo, 3:En desacuerdo, 4:Muy en desacuerdo, 5:No sabe. En el segundo caso las respuestas posibles son 1:Muy poco, 2:Monto correcto, 3:Demasiado, 4:No sabe. Se filtró la base de datos por grado académico, luego se obtuvo un conjunto donde se buscó la primer pregunta y otro para la segunda.
 
 ## Creación de gráficos
 
-Aquí pongamos la gráfica bokeh del análisis y una breve descripción
+se muestran los porcentajes de las opiniones de las personas segun su grado académico. Se nota que la tendencia en la mayoría de los grados académicos es estar de acuerdo con que los jóvenes interesados en ciencia tienen mejores posibilidades de conseguir empleo.
 Las gráficas de la pregunta 27 inciso 1:
 <iframe src="P27_1.html"
     sandbox="allow-same-origin allow-scripts"
@@ -61,5 +62,16 @@ Las gráficas de la pregunta 27 inciso 1:
     seamless="seamless"
     frameborder="0">
 </iframe>
+Se puede ver un comportamiento diferente en las personas con Especialidad pues un 40% de ellos está en desacuerdo con dicha aclamación. También se observa que el 100% de las personas cuyo último grado de estudios fue preescolar se encuentran en desacuerdo con esa pregunta. Lo anterior es difícil de interpretar pues solo hubo un registro de ese grado académico.
 
+
+Las gráficas de la pregunta 28 inciso 4:
+<iframe src="P27_1.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="500"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
 
