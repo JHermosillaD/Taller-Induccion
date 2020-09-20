@@ -21,7 +21,7 @@ Destacan tres sitios, incluido aquel que se consulto durante el taller:
 
 ### Ejemplo de plot
 
-<iframe src="/assets/img/Bokeh/flowers.html"
+<iframe src="circulos.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="500"
