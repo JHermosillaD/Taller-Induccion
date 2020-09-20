@@ -17,11 +17,11 @@ Destacan tres sitios, incluido aquel que se consulto durante el taller:
 
 ![Image](https://rde.inegi.org.mx/wp-content/uploads/2019/12/INEGI_a.png)
 
-### Requisitos
+## Requisitos
 
 El análisis se realizó en Jupyter, por lo  que se usó las librerías pandas y numpy para la maniulación de dataframes. Mientras que para la representación gráfica se usó bokeh. 
 
-## Ejemplo de Gráfico con Bokeh 
+### Ejemplo de Gráfico con Bokeh 
 
 <iframe src="circulos.html"
     sandbox="allow-same-origin allow-scripts"
@@ -32,11 +32,11 @@ El análisis se realizó en Jupyter, por lo  que se usó las librerías pandas y
     frameborder="0">
 </iframe>
 
-### Análisis de datos
+## Análisis de datos
 
 Aquí describamos conceptualmente el análisis de forma breve.
 
-### Creación de gráficos
+## Creación de gráficos
 
 Aquí pongamos la gráfica bokeh del análisis y una breve descripción
 
