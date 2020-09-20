@@ -1,35 +1,23 @@
 ## Resúmen general
 
-En el taller se presentó el estado actual del ecosistema de datos abiertos en México y algunas de las principales fuentes de información existentes en el país. En específico los datos existentes en la página del [INEGI](https://www.inegi.org.mx/). Se habló de los distintos tipos de datos existentes, los principales formatos en los que se encuentran y las herramientas necesarias para procesarlos y analizarlos. El taller incluyó sesiones prácticas en donde se realizaráó análisis sobre los datos recolectados en la Encuesta sobre la percepción pública de laciencia y la tecnología en México 2017 (ENPECyT) realizada   por   el   INEGI.
+<div style="text-align: justify">
+En el taller se presentó el estado actual del ecosistema de datos abiertos en México y algunas de las principales fuentes de información existentes en el país. En específico los datos existentes en la página del INEGI. Se habló de los distintos tipos de datos existentes, los principales formatos en los que se encuentran y las herramientas necesarias para procesarlos y analizarlos. El taller incluyó sesiones prácticas en donde se realizaráó análisis sobre los datos recolectados en la Encuesta sobre la percepción pública de laciencia y la tecnología en México 2017 (ENPECyT) realizada   por   el   INEGI. 
+El taller fue impartido por Irving Omar Morales Agíss, Ex-estudiante de la Facultad de Física
+</div>
 
 ### ¿Qué fuentes de datos abiertos existen en México?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+En México existen diferentes sitios que ofrecen sets de datos para su descarga y exploración. En general, los datos están divididos por categorias y ofrecen difentes formatos.
+Destacan tres sitios, incluido aquel que se consulto durante el taller.
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+- [Datos Abiertos de México](https://datos.gob.mx/)
+- [Portal de datos de la Ciudad de México](https://datos.cdmx.gob.mx/pages/home/)
+- [Instituto Nacional de Estadística y Geografía](https://www.inegi.org.mx/)
 
 [Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JHermosillaD/Taller-Induccion/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Análisis de blablabla
