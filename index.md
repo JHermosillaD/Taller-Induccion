@@ -14,8 +14,7 @@ Destacan tres sitios, incluido aquel que se consulto durante el taller:
 * [Datos Abiertos de México](https://datos.gob.mx/)
 * [Portal de datos de la Ciudad de México](https://datos.cdmx.gob.mx/pages/home/)
 * [Instituto Nacional de Estadística y Geografía](https://www.inegi.org.mx/)
-
-[Link](url) and ![Image](src)
+![Image](https://rde.inegi.org.mx/wp-content/uploads/2019/12/INEGI_a.png)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
