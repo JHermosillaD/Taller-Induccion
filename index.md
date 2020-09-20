@@ -21,7 +21,9 @@ Destacan tres sitios, incluido aquel que se consulto durante el taller:
 
 El análisis se realizó en Jupyter, por lo  que se usó las librerías pandas y numpy para la maniulación de dataframes. Mientras que para la representación gráfica se usó bokeh. 
 
-### Ejemplo de Gráfico con Bokeh 
+### Ejemplo de Gráfico con Bokeh
+
+Graficando tres círculos de diferente radio y colores:
 
 <iframe src="circulos.html"
     sandbox="allow-same-origin allow-scripts"
@@ -32,6 +34,7 @@ El análisis se realizó en Jupyter, por lo  que se usó las librerías pandas y
     frameborder="0">
 </iframe>
 
+Graficando 
 ## Análisis de datos
 
 Aquí describamos conceptualmente el análisis de forma breve.
