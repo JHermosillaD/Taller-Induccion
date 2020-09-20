@@ -52,5 +52,14 @@ Aquí describamos conceptualmente el análisis de forma breve.
 ## Creación de gráficos
 
 Aquí pongamos la gráfica bokeh del análisis y una breve descripción
+Las gráficas de la pregunta 27 inciso 1:
+<iframe src="P27_1.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="500"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
 
 
