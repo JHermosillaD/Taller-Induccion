@@ -34,7 +34,17 @@ Graficando tres círculos de diferente radio y colores:
     frameborder="0">
 </iframe>
 
-Graficando 
+Graficando barrar
+
+<iframe src="graficas/barra.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="500"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+
 ## Análisis de datos
 
 Aquí describamos conceptualmente el análisis de forma breve.
