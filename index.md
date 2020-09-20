@@ -1,8 +1,6 @@
 ## Resúmen general
 
-You can use the [editor on GitHub](https://github.com/JHermosillaD/Taller-Induccion/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+En el taller se presentó el estado actual del ecosistema de datos abiertos en México y algunas de las principales fuentes de información existentes en el país. En específico los datos existentes en la página del [INEGI](https://www.inegi.org.mx/). Se habló de los distintos tipos de datos existentes, los principales formatos en los que se encuentran y las herramientas necesarias para procesarlos y analizarlos. El taller incluyó sesiones prácticas en donde se realizaráó análisis sobre los datos recolectados en la Encuesta sobre la percepción pública de laciencia y la tecnología en México 2017 (ENPECyT) realizada   por   el   INEGI.
 
 ### ¿Qué fuentes de datos abiertos existen en México?
 
