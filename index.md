@@ -66,7 +66,7 @@ Se puede ver un comportamiento diferente en las personas con Especialidad pues u
 
 
 Las gráficas de la pregunta 28 inciso 4:
-<iframe src="P27_1.html"
+<iframe src="P28_4.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="500"
