@@ -21,7 +21,7 @@ Destacan tres sitios, incluido aquel que se consulto durante el taller:
 
 ### Ejemplo de plot
 
-<iframe src="circulos.html"
+<iframe src="/circulos.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
     height="500"
@@ -33,4 +33,4 @@ Destacan tres sitios, incluido aquel que se consulto durante el taller:
 
 ### Análisis de blablabla
 
-Aquí va algo prron
+Aquí va algo prron, añadiendo cambios
