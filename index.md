@@ -29,9 +29,3 @@ Destacan tres sitios, incluido aquel que se consulto durante el taller:
     seamless="seamless"
     frameborder="0">
 </iframe>
-
-
-
-### Análisis de blablabla
-
-Aquí va algo prron, añadiendo cambios
