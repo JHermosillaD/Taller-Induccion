@@ -4,7 +4,7 @@
 En el taller se presentó el estado actual del ecosistema de datos abiertos en México y algunas de las principales fuentes de información existentes en el país. En específico los datos existentes en la página del INEGI. Se habló de los distintos tipos de datos existentes, los principales formatos en los que se encuentran y las herramientas necesarias para procesarlos y analizarlos. El taller incluyó sesiones prácticas en donde se realizaráó análisis sobre los datos recolectados en la Encuesta sobre la percepción pública de laciencia y la tecnología en México 2017 (ENPECyT) realizada   por   el   INEGI. 
 El taller fue impartido por Irving Omar Morales Agíss, Ex-estudiante de la Facultad de Física. 
 </div>
-deñete
+
 
 ### ¿Qué fuentes de datos abiertos existen en México?
 
