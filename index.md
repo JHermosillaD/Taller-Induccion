@@ -19,7 +19,7 @@ Destacan tres sitios, incluido aquel que se consulto durante el taller:
 
 ## Requisitos
 
-El análisis se realizó en Jupyter, por lo  que se usó las librerías pandas y numpy para la maniulación de dataframes. Mientras que para la representación gráfica se usó bokeh. 
+El análisis se realizó en Jupyter, por lo  que se usó las librerías pandas y numpy para la maniulación de dataframes. Mientras que para la representación gráfica se usó bokeh. ddfddd
 
 ### Ejemplo de Gráfico con Bokeh
 
