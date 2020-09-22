@@ -23,7 +23,7 @@ El análisis se realizó en Jupyter, por lo  que se usó las librerías pandas y
 
 ### Ejemplo de Gráfico con Bokeh
 
-Graficando tres círculos de diferente radio y colores:
+Graficando tres círculos de diferente radio y colores: (ESPERO QUE FUNCIONEEE
 
 <iframe src="circulos.html"
     sandbox="allow-same-origin allow-scripts"
