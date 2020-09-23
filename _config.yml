@@ -2,3 +2,5 @@ theme: jekyll-theme-cayman
 
 title: Taller de Ciencia de Datos
 description: Realizado en la Facultad de Física de la Universidad Veracruzana
+plugins:
+  - jekyll-mentions
