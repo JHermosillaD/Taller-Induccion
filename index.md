@@ -2,28 +2,29 @@
 
 ### Resúmen general
 
-<textarea name="comments" id="comments" style="width:96%;height:350px;background-color:#dedede;color:black;border:none;padding:2%;font:22px/30px sans-serif;">
-En el taller fue impartido por el Dr. Irving Morales, Ex-estudiante de la facultad de Física. Se presentó el estado actual del ecosistema de datos abiertos en México y algunas de las principales fuentes de información existentes en el país. En específico los datos existentes en la página del INEGI. Se habló de los distintos tipos de datos existentes, los principales formatos en los que se encuentran y las herramientas necesarias para procesarlos y analizarlos. El taller incluyó sesiones prácticas en donde se realizaráó análisis sobre los datos recolectados en la Encuesta sobre la percepción pública de laciencia y la tecnología en México 2017 (ENPECyT) realizada   por   el   INEGI.  
-</textarea>
+<p>En el taller fue impartido por el *Dr. Irving Morales*, ex-estudiante de la facultad de Física. Durante el taller se presentó el estado actual del ecosistema de datos abiertos en México y algunas de las principales fuentes de información existentes en el país. Se habló de los distintos tipos de datos existentes, los principales formatos en los que se encuentran y las herramientas necesarias para procesarlos y analizarlos. El taller incluyó sesiones prácticas en donde se realizaráó análisis sobre los datos recolectados en la Encuesta sobre la percepción pública de laciencia y la tecnología en México 2017 (ENPECyT) realizada   por   el   INEGI.</p>
 
 ### ¿Qué fuentes de datos abiertos existen en México?
 
-En México existen diferentes sitios que ofrecen sets de datos para su descarga y exploración. En general, los datos están divididos por categorias y ofrecen difentes formatos.
-Destacan tres sitios, incluido aquel que se consulto durante el taller:
+<p>En México existen diferentes sitios que ofrecen sets de datos para su libre descarga. En general, los datos están divididos por categorias y ofrecen difentes formatos. Destacan tres sitios, incluido aquel que se consulto durante el taller:</p>
 
 * [Datos Abiertos de México](https://datos.gob.mx/)
 * [Portal de datos de la Ciudad de México](https://datos.cdmx.gob.mx/pages/home/)
 * [Instituto Nacional de Estadística y Geografía](https://www.inegi.org.mx/)
 
+<img src="https://rde.inegi.org.mx/wp-content/uploads/2019/12/INEGI_a.png" width="500" height="100" />
+
+Alternativa
+
 ![Image](https://rde.inegi.org.mx/wp-content/uploads/2019/12/INEGI_a.png)
 
 ## Requisitos
 
-El análisis se realizó en Jupyter, por lo  que se usó las librerías pandas y numpy para la maniulación de dataframes. Mientras que para la representación gráfica se usó bokeh. ddfddd
+<p>El análisis se realizó en Jupyter, por lo  que se usó las librerías pandas y numpy para la maniulación de dataframes. Mientras que para la representación gráfica se usó bokeh.</p>
 
 ### Ejemplo de Gráfico con Bokeh
 
-Graficando tres círculos de diferente radio y colores: (ESPERO QUE FUNCIONEEE uwu)
+<p>Graficando tres círculos de diferente radio y colores:</p>
 
 <iframe src="circulos.html"
     sandbox="allow-same-origin allow-scripts"
@@ -48,12 +49,12 @@ Graficando barrar
 ## Análisis de datos
 
 # Análisis I
-Aquí se plantea estudiar las siguientes cuestiones ¿Los jóvenes interesados en ciencia tienen mejores posibilidades de conseguir empleo?, respecto a los gastos que hace el gobierno en apoyos a la invesetigación cientifíca, dígame si ¿cree que se está asignando o invirtiendo muy poco dinero, el monto correcto o demasiado dinero?. En el primer caso entre las respuestas posibles se encuentran las opciones 1:Muy de acuerdo,2 :De acuerdo, 3:En desacuerdo, 4:Muy en desacuerdo, 5:No sabe. En el segundo caso las respuestas posibles son 1:Muy poco, 2:Monto correcto, 3:Demasiado, 4:No sabe. Se filtró la base de datos por grado académico, luego se obtuvo un conjunto donde se buscó la primer pregunta y otro para la segunda.
+<p>Aquí se plantea estudiar las siguientes cuestiones ¿Los jóvenes interesados en ciencia tienen mejores posibilidades de conseguir empleo?, respecto a los gastos que hace el gobierno en apoyos a la invesetigación cientifíca, dígame si ¿cree que se está asignando o invirtiendo muy poco dinero, el monto correcto o demasiado dinero?. En el primer caso entre las respuestas posibles se encuentran las opciones 1:Muy de acuerdo,2 :De acuerdo, 3:En desacuerdo, 4:Muy en desacuerdo, 5:No sabe. En el segundo caso las respuestas posibles son 1:Muy poco, 2:Monto correcto, 3:Demasiado, 4:No sabe. Se filtró la base de datos por grado académico, luego se obtuvo un conjunto donde se buscó la primer pregunta y otro para la segunda.</p>
 
 ## Creación de gráficos
 
-se muestran los porcentajes de las opiniones de las personas segun su grado académico. Se nota que la tendencia en la mayoría de los grados académicos es estar de acuerdo con que los jóvenes interesados en ciencia tienen mejores posibilidades de conseguir empleo.
-Las gráficas de la pregunta 27 inciso 1:
+<p>Se muestran los porcentajes de las opiniones de las personas segun su grado académico. Se nota que la tendencia en la mayoría de los grados académicos es estar de acuerdo con que los jóvenes interesados en ciencia tienen mejores posibilidades de conseguir empleo.
+Las gráficas de la pregunta 27 inciso 1:</p>
 <iframe src="P27_1.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
@@ -62,7 +63,7 @@ Las gráficas de la pregunta 27 inciso 1:
     seamless="seamless"
     frameborder="0">
 </iframe>
-Se puede ver un comportamiento diferente en las personas con Especialidad pues un 40% de ellos está en desacuerdo con dicha aclamación. También se observa que el 100% de las personas cuyo último grado de estudios fue preescolar se encuentran en desacuerdo con esa pregunta. Lo anterior es difícil de interpretar pues solo hubo un registro de ese grado académico.
+<p>Se puede ver un comportamiento diferente en las personas con Especialidad pues un 40% de ellos está en desacuerdo con dicha aclamación. También se observa que el 100% de las personas cuyo último grado de estudios fue preescolar se encuentran en desacuerdo con esa pregunta. Lo anterior es difícil de interpretar pues solo hubo un registro de ese grado académico.</p>
 
 
 Las gráficas de la pregunta 28 inciso 4:
