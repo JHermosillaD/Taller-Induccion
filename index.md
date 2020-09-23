@@ -1,10 +1,10 @@
-## Resúmen general
+## Taller de inducción "Análisis de datos básico"
 
-<div style="text-align: justify">
-En el taller se presentó el estado actual del ecosistema de datos abiertos en México y algunas de las principales fuentes de información existentes en el país. En específico los datos existentes en la página del INEGI. Se habló de los distintos tipos de datos existentes, los principales formatos en los que se encuentran y las herramientas necesarias para procesarlos y analizarlos. El taller incluyó sesiones prácticas en donde se realizaráó análisis sobre los datos recolectados en la Encuesta sobre la percepción pública de laciencia y la tecnología en México 2017 (ENPECyT) realizada   por   el   INEGI. 
-El taller fue impartido por Irving Omar Morales Agíss, Ex-estudiante de la Facultad de Física. 
-</div>
+### Resúmen general
 
+<textarea name="comments" id="comments" style="width:96%;height:350px;background-color:#dedede;color:black;border:none;padding:2%;font:22px/30px sans-serif;">
+En el taller fue impartido por el Dr. Irving Morales, Ex-estudiante de la facultad de Física. Se presentó el estado actual del ecosistema de datos abiertos en México y algunas de las principales fuentes de información existentes en el país. En específico los datos existentes en la página del INEGI. Se habló de los distintos tipos de datos existentes, los principales formatos en los que se encuentran y las herramientas necesarias para procesarlos y analizarlos. El taller incluyó sesiones prácticas en donde se realizaráó análisis sobre los datos recolectados en la Encuesta sobre la percepción pública de laciencia y la tecnología en México 2017 (ENPECyT) realizada   por   el   INEGI.  
+</textarea>
 
 ### ¿Qué fuentes de datos abiertos existen en México?
 
