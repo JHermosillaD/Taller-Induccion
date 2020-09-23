@@ -4,7 +4,7 @@
 
 <p style="text-align:justify">El taller se impartió por el Dr. Irving Morales, ex-estudiante de la facultad de Física. Se exploraron fuentes de datos abiertos, los principales formatos de datos que existen y los lenguajes de programación y herramientas necesarias para procesar y analizar los datos. Durante el taller no solo se presentaron las bases sobre el análisis de datos, ya que también se compartió su experiencia profesional y se resolvieron las dudas frente al mercado laboral como científico de datos. El taller incluyó sesiones prácticas en donde se realizaron análisis sobre los datos recolectados en la Encuesta sobre la percepción pública de la ciencia y la tecnología en México 2017 (ENPECyT) realizada por el INEGI.</p> 
 
-> El Dr. Morales () ha creado un repositorio llamado enpecyt que concentra la documentación, los datos y la libreta en Jupyter del taller que impartió.
+> El Dr. Morales (@irvingfisica) ha creado un repositorio llamado enpecyt que concentra la documentación, los datos y la libreta en Jupyter del taller que impartió.
 
 **Lista de reproducción del taller** <br>
 [![IMAGE ALT TEXT HERE](/graficas/playlist.png)](https://www.youtube.com/playlist?list=PLZGw-MRdGtkFSRkboqz6dEbbpOl_hRCsX) 
@@ -26,7 +26,6 @@
 ### Ejemplo de gráficas con Bokeh realizados durante el taller
 
 <p>Gráfica de tres círculos con diferente radio y color.</p>
-
 <iframe src="circulos.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
@@ -37,7 +36,6 @@
 </iframe>
 
 <p>Distribución de las calificacciones otorgadas por las personas a la respetabilidad del desempeño de los investigadores, donde donde 10 equivale a “Muy respetable” y 11 indica que no se sabe.</p>
-
 <iframe src="graficas/barra.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
@@ -64,9 +62,7 @@ Las gráficas de la pregunta 27 inciso 1:
     seamless="seamless"
     frameborder="0">
 </iframe>
-
 <p style="text-align:justify">Se puede ver un comportamiento diferente en las personas con Especialidad pues un 40% de ellos está en desacuerdo con dicha aclamación. También se observa que el 100% de las personas cuyo último grado de estudios fue preescolar se encuentran en desacuerdo con esa pregunta. Lo anterior es difícil de interpretar pues solo hubo un registro de ese grado académico.</p>
-
 Las gráficas de la pregunta 28 inciso 4:
 <iframe src="P28_4.html"
     sandbox="allow-same-origin allow-scripts"
