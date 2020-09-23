@@ -5,7 +5,7 @@
 <p style="text-align:justify">El taller fue impartido por el *Dr. Irving Morales*, ex-estudiante de la facultad de Física. Durante el taller se presentó el estado actual del ecosistema de datos abiertos en México y algunas de las principales fuentes de información existentes en el país. Se habló de los distintos tipos de datos existentes, los principales formatos en los que se encuentran y las herramientas necesarias para procesarlos y analizarlos.<br> 
 El taller incluyó sesiones prácticas en donde se realizaráó análisis sobre los datos recolectados en la Encuesta sobre la percepción pública de laciencia y la tecnología en México 2017 (ENPECyT) realizada   por   el   INEGI.</p>
 
-[![IMAGE ALT TEXT HERE](/graficas/playlist.png)](https://www.youtube.com/playlist?list=PLZGw-MRdGtkFSRkboqz6dEbbpOl_hRCsX)
+[![IMAGE ALT TEXT HERE](/graficas/playlist.png)](https://www.youtube.com/playlist?list=PLZGw-MRdGtkFSRkboqz6dEbbpOl_hRCsX){: .image-left } **Lista de reproducción del taller** 
 
 ### ¿Qué fuentes de datos abiertos existen en México?
 
