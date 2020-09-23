@@ -10,6 +10,8 @@
 
 *   [Datos Abiertos de México](https://datos.gob.mx/)
 *   [Portal de datos de la Ciudad de México](https://datos.cdmx.gob.mx/pages/home/)
+        <img src="https://storage.googleapis.com/noticiasweb/images/2019/01/Captura-de-pantalla-2019-01-14-a-las-19.01.55-1024x584.png
+" width="300" height="171" />
 *   [Instituto Nacional de Estadística y Geografía](https://www.inegi.org.mx/)<br>
         <img src="https://rde.inegi.org.mx/wp-content/uploads/2019/12/INEGI_a.png" width="250" height="50" />
 
