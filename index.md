@@ -10,9 +10,9 @@
 
 *   [Datos Abiertos de México](https://datos.gob.mx/)
 *   [Portal de datos de la Ciudad de México](https://datos.cdmx.gob.mx/pages/home/)
-        <img2 src="https://www.poderjudicialcdmx.gob.mx/unidadtransparencia/wp-content/uploads/datos-abiertos.jpg" width="160" height="104" />
+        <img src="https://www.poderjudicialcdmx.gob.mx/unidadtransparencia/wp-content/uploads/datos-abiertos.jpg" width="160" height="104" />
 *   [Instituto Nacional de Estadística y Geografía](https://www.inegi.org.mx/)<br>
-        <img3 src="https://rde.inegi.org.mx/wp-content/uploads/2019/12/INEGI_a.png" width="250" height="50" />
+        <img src="https://rde.inegi.org.mx/wp-content/uploads/2019/12/INEGI_a.png" width="250" height="50" />
 
 
 ## Requisitos
