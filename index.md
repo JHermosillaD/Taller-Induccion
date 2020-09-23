@@ -1,11 +1,10 @@
 # Taller de inducción "Análisis de datos básico"
 
-### Resúmen general
+## Resúmen general
 
-<p style="text-align:justify">El taller fue impartido por el *Dr. Irving Morales*, ex-estudiante de la facultad de Física. Se exploraron fuentes de datos abiertos, los prinicpales formatos de datos que existen y los lenguajes de programación y herramientas necesarias para procesar y analizar los datos. Durante el taller no sólo se presentaron las bases para el análisis de datos ya que también se compartió su experiencia y se resolvieron dudades frente al mercado laboral como científico de datos. El taller incluyó sesiones prácticas en donde se realizarón análisis sobre los datos recolectados en la Encuesta sobre la percepción pública de la ciencia y la tecnología en México 2017 (ENPECyT) realizada   por   el   INEGI</p> 
+<p style="text-align:justify">El taller se impartió por el Dr. Irving Morales, ex-estudiante de la facultad de Física. Se exploraron fuentes de datos abiertos, los principales formatos de datos que existen y los lenguajes de programación y herramientas necesarias para procesar y analizar los datos. Durante el taller no solo se presentaron las bases sobre el análisis de datos, ya que también se compartió su experiencia profesional y se resolvieron las dudas frente al mercado laboral como científico de datos. El taller incluyó sesiones prácticas en donde se realizaron análisis sobre los datos recolectados en la Encuesta sobre la percepción pública de la ciencia y la tecnología en México 2017 (ENPECyT) realizada por el INEGI.</p> <br>
 
-> El repositorio que concentra la documentación, datos y la libreta en Jupyter se puede encontrar en el repositorio *enpecyt* de 
-
+> El Dr. Morales (@github.com/irvingfisica) ha creado un repositorio llamado enpecyt que concentra la documentación, los datos y la libreta en Jupyter del taller que impartió. <br>
 [![IMAGE ALT TEXT HERE](/graficas/playlist.png)](https://www.youtube.com/playlist?list=PLZGw-MRdGtkFSRkboqz6dEbbpOl_hRCsX){: .image-left } **Lista de reproducción del taller** 
 
 ### ¿Qué fuentes de datos abiertos existen en México?
