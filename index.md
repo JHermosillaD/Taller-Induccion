@@ -5,7 +5,7 @@
 <p style="text-align:justify">El taller fue impartido por el *Dr. Irving Morales*, ex-estudiante de la facultad de Física. Durante el taller se presentó el estado actual del ecosistema de datos abiertos en México y algunas de las principales fuentes de información existentes en el país. Se habló de los distintos tipos de datos existentes, los principales formatos en los que se encuentran y las herramientas necesarias para procesarlos y analizarlos.<br> 
 El taller incluyó sesiones prácticas en donde se realizaráó análisis sobre los datos recolectados en la Encuesta sobre la percepción pública de laciencia y la tecnología en México 2017 (ENPECyT) realizada   por   el   INEGI.</p>
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/xBbM3YuJi8Y/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLATfQMQnXT7CZi84whsntVxZNxbEw)](https://www.youtube.com/playlist?list=PLZGw-MRdGtkFSRkboqz6dEbbpOl_hRCsX)
 
 ### ¿Qué fuentes de datos abiertos existen en México?
 
@@ -17,7 +17,6 @@ El taller incluyó sesiones prácticas en donde se realizaráó análisis sobre 
         <img src="https://www.poderjudicialcdmx.gob.mx/unidadtransparencia/wp-content/uploads/datos-abiertos.jpg" width="160" height="104" />
 *   [Instituto Nacional de Estadística y Geografía](https://www.inegi.org.mx/)<br>
         <img src="https://rde.inegi.org.mx/wp-content/uploads/2019/12/INEGI_a.png" width="250" height="50" />
-
 
 ## Requisitos
 
