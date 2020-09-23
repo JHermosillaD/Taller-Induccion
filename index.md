@@ -9,7 +9,7 @@
 <p>En México existen diferentes sitios que ofrecen sets de datos para su libre descarga. En general, los datos están divididos por categorias y ofrecen difentes formatos. Destacan tres sitios, incluido aquel que se consulto durante el taller:</p>
 
 *   [Datos Abiertos de México](https://datos.gob.mx/)<br>
-        <img src="https://www.gob.mx/cms/uploads/article/main_image/6308/politicadatos2-380x280.jpg" width="288" height="212" />
+        <img src="https://www.gob.mx/cms/uploads/article/main_image/6308/politicadatos2-380x280.jpg" width="144" height="111" />
 *   [Portal de datos de la Ciudad de México](https://datos.cdmx.gob.mx/pages/home/)<br>
         <img src="https://www.poderjudicialcdmx.gob.mx/unidadtransparencia/wp-content/uploads/datos-abiertos.jpg" width="160" height="104" />
 *   [Instituto Nacional de Estadística y Geografía](https://www.inegi.org.mx/)<br>
