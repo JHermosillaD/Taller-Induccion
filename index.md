@@ -2,8 +2,10 @@
 
 ### Resúmen general
 
-<div style="text-align: justify">En el taller fue impartido por el *Dr. Irving Morales*, ex-estudiante de la facultad de Física. Durante el taller se presentó el estado actual del ecosistema de datos abiertos en México y algunas de las principales fuentes de información existentes en el país. Se habló de los distintos tipos de datos existentes, los principales formatos en los que se encuentran y las herramientas necesarias para procesarlos y analizarlos.<br> 
-El taller incluyó sesiones prácticas en donde se realizaráó análisis sobre los datos recolectados en la Encuesta sobre la percepción pública de laciencia y la tecnología en México 2017 (ENPECyT) realizada   por   el   INEGI.</div>
+<p style="text-align:justify">El taller fue impartido por el *Dr. Irving Morales*, ex-estudiante de la facultad de Física. Durante el taller se presentó el estado actual del ecosistema de datos abiertos en México y algunas de las principales fuentes de información existentes en el país. Se habló de los distintos tipos de datos existentes, los principales formatos en los que se encuentran y las herramientas necesarias para procesarlos y analizarlos.<br> 
+El taller incluyó sesiones prácticas en donde se realizaráó análisis sobre los datos recolectados en la Encuesta sobre la percepción pública de laciencia y la tecnología en México 2017 (ENPECyT) realizada   por   el   INEGI.</p>
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 
 ### ¿Qué fuentes de datos abiertos existen en México?
 
@@ -19,11 +21,11 @@ El taller incluyó sesiones prácticas en donde se realizaráó análisis sobre 
 
 ## Requisitos
 
-<p>El análisis se realizó en Jupyter, por lo  que se usó las librerías pandas y numpy para la maniulación de dataframes. Mientras que para la representación gráfica se usó bokeh.</p>
+<p>El análisis se realizó en Jupyter, por lo  que se usó las librerías *pandas* y *numpy* para la maniulación de dataframes. Mientras que para la representación gráfica se usó la librería *bokeh*.</p>
 
-### Ejemplo de Gráfico con Bokeh
+### Ejemplo de Gráficos con Bokeh durante el taller
 
-<p>Graficando tres círculos de diferente radio y colores:</p>
+<p>Grafica de tres círculos con diferente radio y color</p>
 
 <iframe src="circulos.html"
     sandbox="allow-same-origin allow-scripts"
@@ -34,7 +36,7 @@ El taller incluyó sesiones prácticas en donde se realizaráó análisis sobre 
     frameborder="0">
 </iframe>
 
-Graficando barrar
+Distribución de las calificacciones otorgadas por las personas a la respetabilidad del desempeño de los investigadores, donde donde 10 equivale a “Muy respetable” y 11 indica que no se sabe. 
 
 <iframe src="graficas/barra.html"
     sandbox="allow-same-origin allow-scripts"
