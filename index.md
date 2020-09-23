@@ -8,15 +8,11 @@
 
 <p>En México existen diferentes sitios que ofrecen sets de datos para su libre descarga. En general, los datos están divididos por categorias y ofrecen difentes formatos. Destacan tres sitios, incluido aquel que se consulto durante el taller:</p>
 
-* [Datos Abiertos de México](https://datos.gob.mx/)
-* [Portal de datos de la Ciudad de México](https://datos.cdmx.gob.mx/pages/home/)
-* [Instituto Nacional de Estadística y Geografía](https://www.inegi.org.mx/)
+*   [Datos Abiertos de México](https://datos.gob.mx/)
+*   [Portal de datos de la Ciudad de México](https://datos.cdmx.gob.mx/pages/home/)
+*   [Instituto Nacional de Estadística y Geografía](https://www.inegi.org.mx/)
+        <img src="https://rde.inegi.org.mx/wp-content/uploads/2019/12/INEGI_a.png" width="500" height="100" />
 
-<img src="https://rde.inegi.org.mx/wp-content/uploads/2019/12/INEGI_a.png" width="500" height="100" />
-
-Alternativa
-
-![Image](https://rde.inegi.org.mx/wp-content/uploads/2019/12/INEGI_a.png)
 
 ## Requisitos
 
@@ -53,8 +49,8 @@ Graficando barrar
 
 ## Creación de gráficos
 
-<p>Se muestran los porcentajes de las opiniones de las personas segun su grado académico. Se nota que la tendencia en la mayoría de los grados académicos es estar de acuerdo con que los jóvenes interesados en ciencia tienen mejores posibilidades de conseguir empleo.
-Las gráficas de la pregunta 27 inciso 1:</p>
+<p>Se muestran los porcentajes de las opiniones de las personas segun su grado académico. Se nota que la tendencia en la mayoría de los grados académicos es estar de acuerdo con que los jóvenes interesados en ciencia tienen mejores posibilidades de conseguir empleo.</p>
+Las gráficas de la pregunta 27 inciso 1:
 <iframe src="P27_1.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
@@ -64,7 +60,6 @@ Las gráficas de la pregunta 27 inciso 1:</p>
     frameborder="0">
 </iframe>
 <p>Se puede ver un comportamiento diferente en las personas con Especialidad pues un 40% de ellos está en desacuerdo con dicha aclamación. También se observa que el 100% de las personas cuyo último grado de estudios fue preescolar se encuentran en desacuerdo con esa pregunta. Lo anterior es difícil de interpretar pues solo hubo un registro de ese grado académico.</p>
-
 
 Las gráficas de la pregunta 28 inciso 4:
 <iframe src="P28_4.html"
