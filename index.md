@@ -4,9 +4,9 @@
 
 <p style="text-align:justify">El taller se impartió por el Dr. Irving Morales, ex-estudiante de la facultad de Física. Se exploraron fuentes de datos abiertos, los principales formatos de datos que existen y los lenguajes de programación y herramientas necesarias para procesar y analizar los datos. Durante el taller no solo se presentaron las bases sobre el análisis de datos, ya que también se compartió su experiencia profesional y se resolvieron las dudas frente al mercado laboral como científico de datos. El taller incluyó sesiones prácticas en donde se realizaron análisis sobre los datos recolectados en la Encuesta sobre la percepción pública de la ciencia y la tecnología en México 2017 (ENPECyT) realizada por el INEGI.</p> 
 
-El Dr. Morales () ha creado un repositorio llamado enpecyt que concentra la documentación, los datos y la libreta en Jupyter del taller que impartió. <br>
+> El Dr. Morales () ha creado un repositorio llamado enpecyt que concentra la documentación, los datos y la libreta en Jupyter del taller que impartió. <br>
 
-> **Lista de reproducción del taller** <br>
+**Lista de reproducción del taller** <br>
 [![IMAGE ALT TEXT HERE](/graficas/playlist.png)](https://www.youtube.com/playlist?list=PLZGw-MRdGtkFSRkboqz6dEbbpOl_hRCsX) 
 
 
@@ -41,7 +41,7 @@ El Dr. Morales () ha creado un repositorio llamado enpecyt que concentra la docu
 <iframe src="graficas/barra.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
-    height="300"
+    height="400"
     scrolling="no"
     seamless="seamless"
     frameborder="0">
@@ -59,7 +59,7 @@ Las gráficas de la pregunta 27 inciso 1:
 <iframe src="P27_1.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
-    height="300"
+    height="350"
     scrolling="no"
     seamless="seamless"
     frameborder="0">
@@ -71,7 +71,7 @@ Las gráficas de la pregunta 28 inciso 4:
 <iframe src="P28_4.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
-    height="300"
+    height="350"
     scrolling="no"
     seamless="seamless"
     frameborder="0">
